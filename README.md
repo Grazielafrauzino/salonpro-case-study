@@ -31,15 +31,17 @@ SalonPro was designed and developed from concept to production.
 
 The platform includes:
 
-- Online appointment booking
-- Customer management
-- Responsive calendar
-- Stripe payments
-- Automated email notifications
-- Appointment rescheduling and cancellation
-- Multi-tenant architecture
-- Supabase authentication
-- Mobile-first responsive design
+🚀 **Key Features**
+
+- 📅 Online appointment booking
+- 👥 Customer management
+- 📱 Responsive calendar
+- 💳 Secure Stripe payments
+- 📧 Automated email notifications
+- 🔄 Appointment rescheduling & cancellation
+- 🏢 Multi-tenant architecture
+- 🔐 Supabase authentication
+- 📲 Mobile-first responsive design
 
 ---
 
