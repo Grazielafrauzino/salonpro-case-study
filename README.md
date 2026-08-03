@@ -92,7 +92,7 @@ The platform includes:
 
 ### 🏠 Landing Page
 
-*(Screenshot coming soon)*
+![Landing Page](landing-page.png)
 
 ### 📅 Booking
 
