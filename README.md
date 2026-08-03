@@ -65,7 +65,16 @@ The platform includes:
               ▼
       Vercel Deployment
 ```
+## ✨ Highlights
 
+- 🚀 Production-ready SaaS application
+- 📅 Online booking system
+- 💳 Stripe payment integration
+- 🗄️ Supabase authentication & database
+- 📧 Automated email notifications
+- 📱 Mobile-first responsive design
+- 👥 Multi-tenant architecture
+- ⚡ Deployed on Vercel
 ---
 ## 🛠️ Technology Stack
 
