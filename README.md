@@ -1,5 +1,7 @@
 # 💜 SalonPro
-
+<p align="center">
+  <img src="COLOCAR_AQUI_O_LINK_DA_IMAGEM" alt="SalonPro Dashboard" width="100%">
+</p>
 > **Production-ready SaaS platform for beauty salons, barbershops and beauty studios.**
 
 SalonPro is a modern SaaS application designed to help beauty businesses manage appointments, online bookings, payments and customer communication through a responsive and intuitive platform.
