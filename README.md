@@ -1,5 +1,13 @@
 # 💜 SalonPro
 <p align="center">
+
+[![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-7C3AED?style=for-the-badge)](https://salonpro-web.vercel.app)
+[![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel)](https://vercel.com)
+[![Supabase](https://img.shields.io/badge/Supabase-Database-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
+[![Stripe](https://img.shields.io/badge/Stripe-Payments-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com)
+
+</p>
+<p align="center">
   <img src="salonpro-dashboard.png" alt="SalonPro Dashboard" width="100%">
 </p>
 <p align="center">
