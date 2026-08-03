@@ -100,9 +100,10 @@ The platform includes:
 
 ### 📊 Dashboard
 
-![Dashboard](dashboard-1.png)
 
-![Dashboard](dashboard-2.png)
+![Dashboard](Dashboard-1.png)
+
+![Dashboard](Dashboard-2.png)
 
 ### ⚙️ Admin / Settings
 
