@@ -44,7 +44,29 @@ The platform includes:
 - 📲 Mobile-first responsive design
 
 ---
+---
 
+## 🏗️ Architecture
+
+```text
+            User
+              │
+              ▼
+     React + Vite Frontend
+              │
+              ▼
+     Supabase (Auth & Database)
+              │
+      ┌───────┴────────┐
+      ▼                ▼
+ Stripe Payments   Resend Emails
+      │                │
+      └───────┬────────┘
+              ▼
+      Vercel Deployment
+```
+
+---
 ## 🛠️ Technology Stack
 
 - HTML5
