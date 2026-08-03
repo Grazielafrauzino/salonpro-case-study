@@ -104,7 +104,7 @@ The platform includes:
 ![Dashboard](Dashboard-1.png)
 
 ![Dashboard](Dashboard-2.png)
-
+![Dashboard](Dashboard-3.png)
 ### ⚙️ Admin / Settings
 
 *(Screenshot coming soon)*
