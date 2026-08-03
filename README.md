@@ -8,7 +8,7 @@ SalonPro is a modern SaaS application designed to help beauty businesses manage 
 
 ## 🚀 Live Demo
 
-**Demo:** (vamos adicionar o link da Vercel na próxima etapa)
+https://salonpro-web.vercel.app
 
 ---
 
