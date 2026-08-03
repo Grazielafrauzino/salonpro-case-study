@@ -88,6 +88,22 @@ The platform includes:
 - Vercel
 - GitHub
 
----
+## 📸 Screenshots
+
+### 🏠 Landing Page
+
+*(Screenshot coming soon)*
+
+### 📅 Booking
+
+*(Screenshot coming soon)*
+
+### 📊 Dashboard
+
+*(Screenshot coming soon)*
+
+### ⚙️ Admin / Settings
+
+*(Screenshot coming soon)*
 
 **More project documentation, architecture diagrams and screenshots will be added in the next updates.**
